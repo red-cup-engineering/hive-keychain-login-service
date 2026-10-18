@@ -4,8 +4,7 @@
   "description": "One-time, signed Hive Keychain browser login challenges and callback verification.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-systems-engineering-services-section.git",
-    "directory": "services/computer-blockchain-system-services-section/services/hive-engineering-services-section/services/hive-keychain-login-service"
+    "url": "git+https://github.com/red-cup-engineering/hive-keychain-login-service.git"
   },
   "type": "module",
   "exports": {
